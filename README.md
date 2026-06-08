@@ -42,7 +42,7 @@ Ten state-of-the-art LLMs are evaluated across all tasks:
 
 ---
 
-## Best-Performing Configuration (TianoForge Default)
+## Selected Best-Performing Configuration (TianoForge Default)
 
 | Task | Model | System |
 |---|---|---|
