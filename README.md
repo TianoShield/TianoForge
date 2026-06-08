@@ -87,7 +87,7 @@ In Colab, go to **Secrets** (🔑 icon) and add:
 
 ### 2. Upload the Dataset
 
-Upload `full-edkII-dd.csv` to your Google Drive root, or to the task-specific folder defined in Cell 2 of each notebook.
+Upload the dataset to your Google Drive root, or to the task-specific folder defined in Cell 2 of each notebook.
 
 ### 3. Run the Integrated Pipeline
 
