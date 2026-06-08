@@ -1,6 +1,6 @@
 # TianoForge: Automated Bug Triage for TianoCore EDK II
 
-TianoForge is an integrated automated bug triage framework for the [TianoCore EDK II](https://github.com/tianocore/edk2) ecosystem. It unifies four key triage tasks — invalid issue detection, duplicate detection, priority prediction, and developer assignment — into a single sequential workflow powered by Large Language Models (LLMs), domain-specific prompt engineering, and hybrid retrieval (BGE + BM25 + RRF).
+TianoForge is an integrated automated bug triage script for the [TianoCore EDK II](https://github.com/tianocore/edk2) ecosystem. It unifies four key triage tasks — invalid issue detection, duplicate detection, priority prediction, and developer assignment — into a single sequential workflow powered by Large Language Models (LLMs), domain-specific prompt engineering, and hybrid retrieval (BGE + BM25 + RRF).
 
 ---
 
