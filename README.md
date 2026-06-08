@@ -121,12 +121,7 @@ All dependencies are installed automatically in Cell 1 of each notebook via `pip
 
 TianoForge reduces average triage time from **10.86 days** (manual) to **7.08 minutes** (automated), a reduction of **99.95%** (~2,208× speedup).
 
----
 
-## Data
- 
-The EDK II dataset is available at Dataverse.
- 
 ---
  
 ## Paper
