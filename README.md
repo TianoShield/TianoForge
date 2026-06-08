@@ -9,7 +9,7 @@ TianoForge is an integrated automated bug triage framework for the [TianoCore ED
 ```
 TianoForge/
 ├── finalized-integrated-script/
-│   ├── triage_integrated_script.ipynb        # End-to-end TianoForge pipeline
+│   ├── triage_integrated_script.ipynb        # End-to-end TianoForge script
 │   └── finialized-integrated-script-results/
 │       ├── RUN1/                             # Predictions and metrics for run 1
 │       ├── RUN2/                             # Predictions and metrics for run 2
@@ -89,9 +89,9 @@ In Colab, go to **Secrets** (🔑 icon) and add:
 
 Upload the dataset to your Google Drive root, or to the task-specific folder defined in Cell 2 of each notebook.
 
-### 3. Run the Integrated Pipeline
+### 3. Run the Integrated Script
 
-Open `finalized-integrated-script/triage_integrated_script.ipynb` and run all cells top to bottom. The pipeline processes all 37 labeled issues sequentially across all four tasks and saves results to Google Drive under `triage_framework/results/`.
+Open `finalized-integrated-script/triage_integrated_script.ipynb` and run all cells from top to bottom. The script processes all 37 labeled issues sequentially across all four tasks and saves results to Google Drive under `triage_framework/results/`.
 
 ### 4. Run Individual Sub-Task Notebooks
 
