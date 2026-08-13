@@ -127,9 +127,8 @@ TianoForge reduces average triage time from **10.86 days** (manual) to **7.08 mi
 ## Paper
  
 This repository supports the following paper:
- 
-> **TianoForge: An Automated Bug Triage Script for TianoCore EDK II,**
-> Nazanin Siavash, Terrance E. Boult, Armin Moin
+
+> N. Siavash, T. E. Boult, and A. Moin, “TianoForge: An automated bug triage approach for the TianoCore UEFI firmware development community,” in  Proc. Int. Workshop on Firmware Testing and Analysis (FTA), ISSTA 2026, Oakland, CA, USA, 2026.
  
 ---
 
