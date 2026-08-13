@@ -129,7 +129,7 @@ TianoForge reduces average triage time from **10.86 days** (manual) to **7.08 mi
 This repository supports the following paper:
  
 > **TianoForge: An Automated Bug Triage Script for TianoCore EDK II,**
-> Nazanin Siavash, Laura Baird, Neelesh Reddybattula, Devin Haggitt, Terrance E. Boult, Armin Moin
+> Nazanin Siavash, Terrance E. Boult, Armin Moin
  
 ---
 
